@@ -1,6 +1,4 @@
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=WELCOME%20TO%20DENNISE'S%20REALM&fontSize=35&textBg=false&reversal=false&stroke=C3B1E1
 - 🎓 Biotech Student | Aspiring Data Scientist 
 - 🔬 Combining biology and tech to solve complex problems. 
 - 💻 CS Foundations Projects from CS 111 (Intro to CS) 
